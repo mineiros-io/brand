@@ -15,7 +15,7 @@ guidelines, please [contact us](https://www.mineiros.io/contact/) and include a 
 
 <img src="./mineiros-vertical-logo.svg" width="400" />
 
-<img src="./mineiros-vertical-logo-white-font.svg" width="400" />
+<img src="./mineiros-vertical-logo-white-font.svg width="400" />
 
 ## Vertical Logo with large Font
 
