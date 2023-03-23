@@ -7,21 +7,13 @@ guidelines, please [contact us](https://www.mineiros.io/contact/) and include a 
 
 # Mineiros
 
-## Logos
+## Logo
 
-<img src="./mineiros-primary-logo.svg" width="400" />
+<img src="./mineiros-logo.svg" width="400" />
 
-<img src="./mineiros-primary-logo-white-font.svg" width="400" />
+## Dark Mode Logo
 
-## Vertical Logos
-
-<img src="./mineiros-vertical-logo.svg" width="400" />
-
-<img src="./mineiros-vertical-logo-white-font.svg" width="400" />
-
-## Vertical Logo with large Font
-
-<img src="./mineiros-vertical-logo-larger-font.svg" width="400" />
+<img src="mineiros-logo-inverted.svg" width="400" />
 
 ## Icons
 
